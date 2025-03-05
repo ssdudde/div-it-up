@@ -1,22 +1,27 @@
 # 1.Intro-to-html
 ## Assignment
-```I would use nav tag for the top bar and use hover it then apply some simple styling and use good background images.Then remove the underlines for the links. Added the file in repository.
+```
+I would use nav tag for the top bar and use hover it then apply some simple styling and use good background images.Then remove the underlines for the links. Added the file in repository.
 ```
 
 ## Challenge
 > 1)<Center>: 
-``` Display contents at center along horizontal direction
+```
+ Display contents at center along horizontal direction
 ```
 > 2)<image>:
-```It is now replaced by <img> tag
+```
+It is now replaced by <img> tag
 ```
 > 3)<big>:
-```Makes the text appear larger than surrounding ones.Size depends on browser's maximum permiited font size.
+```
+Makes the text appear larger than surrounding ones.Size depends on browser's maximum permiited font size.
 ```
 # 2.Intro-to-css
 ## Assignment
 
-```uploaded the screenshots
+```
+uploaded the screenshots
 ```
 ## Challenge
 > Code for styling:
