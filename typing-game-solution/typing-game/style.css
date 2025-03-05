@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(238, 169, 84);
+    text-align: center
+    ;
+    
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+img{
+   
+    border: 3px;
+    border-color: aqua;
+}
+#typed{
+    background-color: aqua;
+    color: rgb(238, 169, 84);
+    box-shadow:  1px
+
+}
+button{
+    background-color: aquamarine;
+    color: rgb(238, 169, 84);
+    box-shadow: transparent;
+    text-shadow: 1px;
+    
+}
