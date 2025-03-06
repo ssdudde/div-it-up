@@ -1,0 +1,93 @@
+h1,h2{
+    text-align: center;
+}
+
+
+body{
+    background-color:rgb(44, 129, 255);
+}
+input{
+    height: 2.0em;
+    width: 30.0em;
+    border-radius: 9px;
+    margin: 20px;
+
+}
+button{
+    height: 3.0em;
+    width: 31.0em;
+    border-radius: 9px;
+    background-color: rgb(44, 129, 255);
+    color: aliceblue;
+    font-style: bold;
+    margin-left: 20px;
+}
+#app{
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    margin: auto;
+    height: 800px;
+    margin-top: 5px ;
+    padding: 1%;
+    border-radius: 10px;
+}
+#loginError,#registerError{
+    color: red;
+}
+table{
+    background-color: rgb(44, 129, 255);;
+    align-items: center;
+    border:solid; 
+    margin-left: 90px;
+    padding:1%;
+    border:1% ;
+    border-collapse: collapse;
+    border-color: aliceblue;
+}
+
+#Btrans{
+    width:110px;
+    margin-left: 200px;
+    color: black;
+    font-style: oblique;
+}
+#Btrans:hover{
+    background-color:aliceblue;
+}
+#transactions tr:nth-child(odd){
+    background-color: aliceblue;
+
+}
+#transactions tr:nth-child(even){
+    background-color: grey;
+
+}
+
+#transactions tr:nth-child(odd):hover{
+    background-color:rgb(44, 129, 255);
+
+}
+#transactions tr:nth-child(even):hover{
+    background-color:rgb(44, 129, 255);
+
+}
+#logout{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: rgb(44, 129, 255);
+    padding: 1%;
+    margin-bottom: 10%;
+    border-radius: 10px;
+}
+#logout:hover{
+    background-color: aliceblue;
+}
+
+#ok,#cancel{
+    width:100px;
+    color:black;
+    background-color: rgb(44, 129, 255);
+}
+#ok:hover,#cancel:hover{
+    background-color: aliceblue;
+}
